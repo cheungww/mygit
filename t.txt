@@ -2,3 +2,4 @@ fnosf
 sldfh;
 sfhljsdf
 stupid
+git remote set-url origin git+ssh://git@github.com/vigor-z/mygit.git·
