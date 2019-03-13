@@ -1,3 +1,7 @@
 # mygit
 This is my first git.
-this is two words...
+<<<<<<< HEAD
+this is two words.
+=======
+this is a new word.
+>>>>>>> dev
